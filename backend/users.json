@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "username": "john",
+      "password_hash": "6875dabe4128faad50cecd638e4947737ada68e08bac95a587b173fa6c3ae205",
+      "name": "Farmer John",
+      "role": "Farm Owner",
+      "avatar": "\ud83d\udc68\u200d\ud83c\udf3e",
+      "created_at": "2026-09-07T21:15:18.673636"
+    },
+    {
+      "username": "sarah",
+      "password_hash": "6875dabe4128faad50cecd638e4947737ada68e08bac95a587b173fa6c3ae205",
+      "name": "Dr. Sarah Agri",
+      "role": "Plant Pathologist",
+      "avatar": "\ud83d\udc69\u200d\ud83d\udd2c",
+      "created_at": "2026-09-07T21:15:18.673867"
+    }
+  ]
+}

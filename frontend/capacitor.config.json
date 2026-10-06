@@ -1,0 +1,9 @@
+{
+  "appId": "com.berryio.app",
+  "appName": "BerryIo",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "http",
+    "cleartext": true
+  }
+}
